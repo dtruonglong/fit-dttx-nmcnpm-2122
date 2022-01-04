@@ -6,3 +6,7 @@ Demo môn Nhập môn Công nghệ phần mềm - ĐTTX - HK2 - 2021 - 2022
   - Thiết kế dữ liệu
   - Thiết kế giao diện
   - Thiết kế xử lý
+  - Kiểm thử
+  - Triển khai
+  - Test1
+  - 7899
